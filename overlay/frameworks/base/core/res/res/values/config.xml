@@ -234,7 +234,7 @@
          This needs to match the constants in
          policy/src/com/android/internal/policy/impl/PhoneWindowManager.java
     -->
-    <integer name="config_longPressOnMenuBehavior">2</integer>
+
 
     <!-- Control the behavior when the user double-taps the home button.
             0 - Nothing
@@ -256,8 +256,6 @@
     <bool name="skip_restoring_network_selection">true</bool>
 
     <!-- Performance profiles -->
-    <string name="config_perf_profile_prop">powerhal</string>
-    <string name="config_perf_profile_default_entry">1</string>
 
     <!-- Configuration to restart radio upon PDP_DEACTIVATE with
          error cause as Regular deactivation(36). -->
