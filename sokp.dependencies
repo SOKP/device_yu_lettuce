@@ -1,0 +1,32 @@
+[
+  {
+    "repository": "device_qcom_common",
+    "target_path": "device/qcom/common",
+	"branch":      "sokp-l5.1"
+  },
+  {
+    "repository": "android_external_mm-dash",
+    "target_path": "external/mm-dash",
+	"branch":      "sokp-l5.1"
+  },
+  {
+    "repository": "device_cyanogen_msm8916-common",
+    "target_path": "device/cyanogen/msm8916-common",
+	"branch":      "sokp-l5.1"
+  },
+  {
+    "repository": "kernel_cyanogen_msm8916",
+    "target_path": "kernel/cyanogen/msm8916",
+	"branch":      "sokp-l5.1"
+  },
+  {
+    "repository": "hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm",
+	"branch":      "sokp-l5.1"
+  },
+  {
+    "repository": "proprietary_vendor_yu",
+    "target_path": "vendor/yu",
+	"branch":      "sokp-l5.1N"
+  }
+]
