@@ -12,12 +12,12 @@
   {
     "repository": "device_cyanogen_msm8916-common",
     "target_path": "device/cyanogen/msm8916-common",
-	"branch":      "sokp-l5.1"
+	"branch":      "sokp-l5.1E"
   },
   {
     "repository": "kernel_cyanogen_msm8916",
     "target_path": "kernel/cyanogen/msm8916",
-	"branch":      "sokp-l5.1"
+	"branch":      "sokp-l5.1E"
   },
   {
     "repository": "hardware_qcom_fm",
@@ -27,6 +27,6 @@
   {
     "repository": "proprietary_vendor_yu",
     "target_path": "vendor/yu",
-	"branch":      "sokp-l5.1N"
+	"branch":      "sokp-l5.1E"
   }
 ]
